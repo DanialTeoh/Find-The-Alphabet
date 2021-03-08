@@ -1,0 +1,18 @@
+Learn the word Game License
+-------------------------
+
+Learn the word Game is free, open source, and GPL friendly. You can use it for
+commercial projects, open source projects, or really almost whatever you want.
+
+Font Concert One
+This fonts are licensed under the Open Font License: https://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=OFL
+You can use them freely in your products & projects - print or digital, commercial or otherwise. However, you can't sell the fonts on their own.
+
+This isn't legal advice, please consider consulting a lawyer and see the full license for all details.
+
+Image Background.jpg
+The image is download on pxhere.com. It is released free of copyrights under Creative Commons CC0.
+You may download, modify, distribute, and use them royalty free for anything you like, even in commercial applications. Attribution is not required.
+
+Code — MIT License
+In the Learn the word Game License download, the MIT license applies to all non-font and non-icon files.
